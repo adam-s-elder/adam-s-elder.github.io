@@ -11,9 +11,9 @@ title                    : "Adam Elder"
 title_separator          : "-"
 name                     : &name "Adam Elder"
 description              : &description "I am currently a student working towards my PhD in Biostatistics"
-url                      : https://shmelder.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://adam-s-elder.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shmelder/shmelder.github.io"
+repository               : "adam-s-elder/adam-s-elder.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -31,7 +31,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['Adam Elder', 'eldera3@uw.edu', 'shmelder.github.io', 'message']
+  allowedFields          : ['Adam Elder', 'eldera3@uw.edu', 'adam-s-elder.github.io', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "shmelder"
+  github           : "adam-s-elder"
   google_plus      :
   keybase          :
   instagram        :
