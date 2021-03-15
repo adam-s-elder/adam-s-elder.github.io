@@ -1,0 +1,81 @@
+theme = "soho"
+baseurl = "/"
+languageCode = "en"
+title = "Adam Elder"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+summarylength = 10
+enableEmoji = true
+
+
+[params]
+author = "Adam Elder"
+description = "Ph.D. Student"
+
+## Set one of:
+profilePicture = "images/profile.png"
+copyright = "Adam Elder"
+license = "CC BY-SA 4.0"
+licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+mainSections = ["about"]
+
+## Set custom theme color.
+themeColor = "#002E31"
+
+## Set custom CSS and/or JS to override site defaults.
+customCss = ["css/hyde.css"]
+customJs = ["js/blog.js"]
+
+
+[[params.socialIcons]]
+  icon = "fa-github"
+  title = "GitHub"
+  url = "https://github.com/adam-s-elder"
+
+# [[params.socialIcons]]
+#   icon = "fa-google2"
+#   title = "Google"
+#   url = "https://Google.com"
+  
+[[params.socialIcons]]
+  icon = "fa-linkedin"
+  title = "Linkedin"
+  url = "https://www.linkedin.com/in/adam-elder-12691a108/"
+  
+  # [[params.socialIcons]]
+  # icon = "fa-twitter"
+  # title = "Twitter"
+  # url = "#"
+
+[taxonomies]
+  series = "series"
+  category = "categories"
+  tag = "tags"
+
+[menu]
+
+# [[menu.main]]
+#   identifier = "Blog"
+#   name = "Posts"
+#   url = "/blog/"
+#   weight = 5
+
+[[menu.main]]
+  identifier = "cv"
+  name = "CV"
+  url = "/Adam_cv.pdf"
+  weight = 11
+
+[markup]
+
+  [markup.highlight]
+  codeFences = true
+  guessSyntax = false
+  hl_Lines = ""
+  lineNoStart = 1
+  lineNos = false
+  lineNumbersInTable = true
+  noClasses = true
+  style = "monokai"
+  tabWidth = 4
