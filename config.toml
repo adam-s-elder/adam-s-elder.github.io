@@ -60,7 +60,6 @@ customJs = ["js/blog.js"]
 #   name = "Posts"
 #   url = "/blog/"
 #   weight = 5
-# Nothing
 
 [[menu.main]]
   identifier = "cv"
