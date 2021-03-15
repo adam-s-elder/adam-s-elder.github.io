@@ -59,7 +59,6 @@ html {
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
-
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;
@@ -205,11 +204,6 @@ ul.posts {
 .social-icons a,
 .social-icons a:hover,
 .social-icons a:focus {
-  display: inline-block;
-  height: 10rem;
-  width: 10rem;
-  top: 4rem;
-  position: relative;
   text-decoration: none !important;
 }
 
