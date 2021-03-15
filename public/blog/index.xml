@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Adam Elder</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on Adam Elder</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 29 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Blog</title>
+      <link>/blog/first-blog/</link>
+      <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/first-blog/</guid>
+      <description>Fancy Tabs Hello there, I am posting for the first time!</description>
+    </item>
+    
+  </channel>
+</rss>
