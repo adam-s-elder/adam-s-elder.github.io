@@ -70,7 +70,7 @@ customJs = ["js/blog.js"]
 # [[menu.main]]
 #   identifier = "pres"
 #   name = "Presentations"
-#   url = "/pres/"
+#   url = "/presentations.md"
 #   weight = 15
 
 [markup]
