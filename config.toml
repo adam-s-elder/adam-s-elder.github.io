@@ -61,17 +61,24 @@ customJs = ["js/blog.js"]
 #   url = "/blog/"
 #   weight = 5
 
+
+[[menu.main]]
+  identifier = "pub"
+  name = "Publications"
+  url = "/publications"
+  weight = 10
+  
+[[menu.main]]
+  identifier = "pres"
+  name = "Presentations"
+  url = "/presentations"
+  weight = 15
+
 [[menu.main]]
   identifier = "cv"
   name = "CV"
   url = "/adam_cv.pdf"
-  weight = 11
-  
-# [[menu.main]]
-#   identifier = "pres"
-#   name = "Presentations"
-#   url = "/presentations.md"
-#   weight = 15
+  weight = 20
 
 [markup]
 

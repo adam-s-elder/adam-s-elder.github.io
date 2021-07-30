@@ -45,11 +45,11 @@
     
     <item>
       <title>Presentations</title>
-      <link>/presentations/</link>
+      <link>/presentations/presentations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/presentations/</guid>
-      <description>General exam</description>
+      <guid>/presentations/presentations/</guid>
+      <description>Presentations General exam</description>
     </item>
     
   </channel>

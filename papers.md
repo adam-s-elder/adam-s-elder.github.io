@@ -27,7 +27,7 @@ menu: "main"
 
 ## 2019
 
-- Elder, Adam. (2019). "[Estimation and inference for upper hinge regression models](https://link.springer.com/article/10.1007/s10651-019-00428-1)." Environmental and Ecological Statistics. 26: 287.
+- Elder, Adam. (2019). "[Estimation and inference for upper hinge regression models](https://link.springer.com/article/10.1007/s10651-019-00428-1)." Environmental and Ecological Statistics. 26: 287.a
 
 <!-- ## 2018
 
