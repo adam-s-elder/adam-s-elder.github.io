@@ -45,11 +45,20 @@
     
     <item>
       <title>Presentations</title>
-      <link>/presentations/presentations/</link>
+      <link>/presentations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/presentations/presentations/</guid>
-      <description>Presentations General exam</description>
+      <guid>/presentations/</guid>
+      <description> General exam, April 16th, 2021 (link)  </description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>Methods  A. Elder, Y Fong, 2019, Estimation and inference for upper hinge regression models.</description>
     </item>
     
   </channel>
