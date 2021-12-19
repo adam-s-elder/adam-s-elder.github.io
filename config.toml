@@ -37,12 +37,12 @@ customJs = ["js/blog.js"]
 #   icon = "fa-google2"
 #   title = "Google"
 #   url = "https://Google.com"
-  
+
 [[params.socialIcons]]
   icon = "fa-linkedin"
   title = "Linkedin"
   url = "https://www.linkedin.com/in/adam-elder-12691a108/"
-  
+
   # [[params.socialIcons]]
   # icon = "fa-twitter"
   # title = "Twitter"
@@ -63,16 +63,16 @@ customJs = ["js/blog.js"]
 
 
 [[menu.main]]
-  identifier = "pub"
-  name = "Publications"
-  url = "/publications"
+  identifier = "reach"
+  name = "Research"
+  url = "/research"
   weight = 10
-  
-[[menu.main]]
-  identifier = "pres"
-  name = "Presentations"
-  url = "/presentations"
-  weight = 15
+
+# [[menu.main]
+#   identifier = "pres
+#   name = "Presentations
+#   url = "/presentations
+#   weight = 15
 
 [[menu.main]]
   identifier = "cv"
