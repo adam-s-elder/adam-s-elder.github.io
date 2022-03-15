@@ -8,7 +8,9 @@ description: "Research"
 
 ## Publications
 
-- **A. Elder**, Y Fong, 2019, [Estimation and inference for upper hinge regression models](https://link.springer.com/article/10.1007/s10651-019-00428-1). Environmental and Ecological Statistics. 26: 287.
+- **A. Elder**, M. Carone, P. Gilbert, A. Luedtke, 2022, [A general adaptive framework for multivariate point null testing](https://arxiv.org/abs/2203.01897) (submitted).
+- K. Cowgill,  E. Erosheva, **A. Elder**, L. Miljacic; S. Buskin, J. Duchin, 2020 (submitted) Anti-SARS-CoV-2 seroprevalence in King County, WA – cross-sectional survey (A similar version is on the [PHSKC website](https://kingcounty.gov/depts/health/covid-19/data/reports.aspx))
+- **A. Elder**, Y. Fong, 2019, [Estimation and inference for upper hinge regression models](https://link.springer.com/article/10.1007/s10651-019-00428-1). Environmental and Ecological Statistics. 26: 287.
 
 ## Presentations
 
